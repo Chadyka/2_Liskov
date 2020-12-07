@@ -8,6 +8,6 @@ public class Main {
         Child gy = new Child();
         s.setName("Child");
         s.setAge(15);
-        System.out.println(gy.getName() + "  " + s.getName());
+        // System.out.println(gy.getName() + "  " + s.getName());
     }
 }
